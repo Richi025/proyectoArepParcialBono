@@ -1,5 +1,5 @@
-PROYECTO PARCIAL BONO
-Descripción
+### PROYECTO PARCIAL BONO
+## Descripción
 Este proyecto consiste en una calculadora reflexiva que funciona a través de una arquitectura cliente-servidor. La aplicación está dividida en dos componentes principales:
 
 CalculatorReflexServer: Un servidor Java que recibe solicitudes HTTP, ejecuta operaciones matemáticas utilizando reflexión y devuelve los resultados en formato JSON.
@@ -7,7 +7,7 @@ ServerHTTPfachada: Un servidor HTTP que actúa como fachada para el cliente. Rec
 Inicio
 Para comenzar con el proyecto, necesitas tener Java instalado en tu sistema. Asegúrate de tener JDK 11 o superior.
 
-Requisitos
+### Requisitos
 Java JDK 11 o superior.
 Un navegador web para interactuar con la interfaz cliente.
 Ejecución del Servidor Reflexivo
@@ -24,5 +24,5 @@ http://localhost:36001/calculate
 
 ![alt text](images/imagee.png)
 
-AUTOR jose ricardo vasquez vega
+### AUTOR jose ricardo vasquez vega
 19/09/2024
